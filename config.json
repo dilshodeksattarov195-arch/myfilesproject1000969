@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfpdate",
+        "uuid": 7684170,
+        "checksum": "yu7e2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
